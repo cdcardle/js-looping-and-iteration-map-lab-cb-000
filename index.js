@@ -1,3 +1,3 @@
 function lowerCaseDrivers(array) {
-  array.map((element) => element.toLowerCase())
+  return array.map((element) => element.toLowerCase())
 }
